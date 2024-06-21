@@ -2,7 +2,7 @@
 Multiple small object detection and prioritized tracking using deep learning #yolov8
 # Object Detection for Navy Rescue Operations
 
-This project implements object detection using a custom pretrained YOLOv8 model to detect small boats, ships, and humans in Navy rescue operations. The project includes deep learning prioritized tracking, with a focus on accurately identifying and tracking these objects in challenging maritime environments. for mre details check the paper publication https://ieeexplore.ieee.org/document/10391309 
+This project implements object detection using a custom pretrained YOLOv8 model to detect small boats, ships, and humans in Navy rescue operations. The project includes deep learning prioritized tracking, with a focus on accurately identifying and tracking these objects in challenging maritime environments. For more details check the paper https://ieeexplore.ieee.org/document/10391309 
 
 
 ## Introduction
