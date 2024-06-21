@@ -35,5 +35,5 @@ To set up the project, follow these steps:
 To run the object detection:
 
 ```bash
-python detection.py --model best_model.pth --input input_video.mp4 --output output_video.mp4
+python detection.py 
 python tracking.py
